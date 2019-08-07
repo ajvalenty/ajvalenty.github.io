@@ -21,6 +21,10 @@ body{
 }
 #content .col {
   float: left;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
 }
 
 .box h1{
