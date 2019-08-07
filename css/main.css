@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: #555555 no-repeat;
+  background: rgb(85,85,85);
   background-size: cover;
 }
 .box{
@@ -14,11 +14,11 @@ body{
   color: white;
   font-family: 'Century Gothic',sans-serif;
 }
-.box-img{
+/* .box-img{
   border-radius: 50%;
   width: 230px;
   height: 270px;
-}
+} */
 #content .col {
   float: left;
   padding: 40px;
