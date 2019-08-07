@@ -19,6 +19,10 @@ body{
   width: 230px;
   height: 270px;
 }
+#content .col {
+  float: left;
+}
+
 .box h1{
   font-size: 40px;
   letter-spacing: 4px;
