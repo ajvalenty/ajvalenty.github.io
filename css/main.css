@@ -13,12 +13,11 @@ body{
   margin-top: 5%;
   color: white;
   font-family: 'Century Gothic',sans-serif;
-}
-/* .box-img{
+}.box-img{
   border-radius: 50%;
   width: 230px;
   height: 270px;
-} */
+} 
 #content .col {
   float: left;
   padding: 40px;
