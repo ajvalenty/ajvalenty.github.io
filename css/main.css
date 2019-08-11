@@ -16,13 +16,9 @@ body{
 }
 .box-img{
   border-radius: 50%;
-/*   width: 230px;
-  height: 275px; */
+  width: 230px;
+  height: 275px;
 }
-/* #content col{
-  float left;
-} */
-
 .box h1{
   font-size: 40px;
   letter-spacing: 4px;
